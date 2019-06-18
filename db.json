@@ -1,0 +1,178 @@
+{
+"accounts":[
+  {
+    "accountId": 634,
+    "accountName": "BUSINESS PRACTICES-MEALS 100% DEDU",
+    "accountNumber": 67210000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 635,
+    "accountName": "TRAVEL GENERAL- DIV EMPLOYEES",
+    "accountNumber": 67201002,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 636,
+    "accountName": "BUSINESS PRACTICES ENTERTAINMENT",
+    "accountNumber": 67318000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 637,
+    "accountName": "TFRS FR COSTA RICA",
+    "accountNumber": 69401060,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 638,
+    "accountName": "EXPATRIATE EXPENSES",
+    "accountNumber": 61221000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 639,
+    "accountName": "INSURANCE",
+    "accountNumber": 66701000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 646,
+    "accountName": "TELECOM:DATA:NETWORK MGMT",
+    "accountNumber": 67404004,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 649,
+    "accountName": "TFRS FR EMERSON UK",
+    "accountNumber": 69499051,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 650,
+    "accountName": "ADMINISTRATIVE DUES",
+    "accountNumber": 68212000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 501,
+    "accountName": "SALARIES REGULAR",
+    "accountNumber": 61201000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 502,
+    "accountName": "SALARIES OVERTIME",
+    "accountNumber": 61202000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 503,
+    "accountName": "SALARIES PART-TIME",
+    "accountNumber": 61203000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 504,
+    "accountName": "SPECIAL & EXPENDABLE TOOLS/HARDWARE",
+    "accountNumber": 66101000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 505,
+    "accountName": "OUTSIDE MAINTENANCE",
+    "accountNumber": 66307000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 506,
+    "accountName": "OUTSIDE WAREHOUSE",
+    "accountNumber": 66501000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 507,
+    "accountName": "RENT MACHINERY &EQUIPMENT",
+    "accountNumber": 66503000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 508,
+    "accountName": "RENT-COMPUTER EQUIPMENT",
+    "accountNumber": 66505000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 509,
+    "accountName": "PROPERTY & FRANCISE TAXES",
+    "accountNumber": 66601000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 510,
+    "accountName": "LEGAL FEES",
+    "accountNumber": 67101000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 511,
+    "accountName": "PATENTS",
+    "accountNumber": 67102000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 512,
+    "accountName": "PROFESSIONAL SERVICES",
+    "accountNumber": 67103000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 513,
+    "accountName": "PROFESSIONAL SVCS: CONSULTING",
+    "accountNumber": 67103002,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 514,
+    "accountName": "TRAVEL GENERAL",
+    "accountNumber": 67201000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 515,
+    "accountName": "TRAVEL GENERAL- CONSULTANTS",
+    "accountNumber": 67201001,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 516,
+    "accountName": "TRAVEL MEALS & ENTERTAINMENT",
+    "accountNumber": 67202000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 517,
+    "accountName": "MEALS & ENT (NON TRAVEL)",
+    "accountNumber": 67203000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 518,
+    "accountName": "MEALS TRAVEL 50% DEDU",
+    "accountNumber": 67208000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 519,
+    "accountName": "MEALS NON TRAVEL 50% DEDU",
+    "accountNumber": 67209000,
+    "accoutType": "EXPENSE"
+  },
+  {
+    "accountId": 520,
+    "accountName": "TELECOM: VOICE",
+    "accountNumber": 67402000,
+    "accoutType": "EXPENSE"
+  }
+]
+}
